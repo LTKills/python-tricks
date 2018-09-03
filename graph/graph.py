@@ -32,8 +32,8 @@ class Graph:
                 try:
                     data = int(input())
                     break
-                except ValueError as error:
-                    print(str(error))
+                except ValueError:
+                    print('Not an integer value')
                     continue
 
             node = Node(data, index)
