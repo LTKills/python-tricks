@@ -8,6 +8,7 @@ use
 ## Contents
 
 - Sorting algorithms implementation in python with statistics
+- Graph object oriented implementation
 
 ## Contribute
 
