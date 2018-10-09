@@ -1,5 +1,5 @@
 # python-tricks
-My not-too-little python projects
+My little python projects
 
 This repo conatins little python projects I find fun and did not take
 too long to build. These projects should be easy to code, understand and
